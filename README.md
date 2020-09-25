@@ -14,7 +14,7 @@
     <a href="https://github.com/manueledwardopaez/Website-With-Sliding/issues"></a>
     <br />
     <br />
-    <a href="https://github.com/manueledwardopaez/Website-With-Sliding/issues">View Demo</a>
+    <a href="https://manueledwardopaez.github.io/Website-With-Sliding/index.html">View Demo</a>
     ·
     <a href="https://github.com/manueledwardopaez/Website-With-Sliding/issues">Report Bug</a>
     ·
@@ -37,7 +37,7 @@
 
 ![](img/project-image.PNG)
 
-This is a project made by watching the [EasyTutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA) videos, to practice my Web Design skills.
+This is a project made by watching the [EasyTutorials]() videos, to practice my Web Design skills.
 
 ### Built With
 * HTML
