@@ -42,7 +42,3 @@ This is a project made by watching the [EasyTutorials]() videos, to practice my 
 ### Built With
 * HTML
 * CSS
-* JavaScript
-
-
-
